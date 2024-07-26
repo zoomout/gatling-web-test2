@@ -1,6 +1,6 @@
 Gatling performance test of Web application 
 ===========================================
-Web application under test: https://github.com/zoomout/spring-persistent-web
+Web application under test: https://github.com/zoomout/java-21-demo
 
 Start SBT
 ---------
